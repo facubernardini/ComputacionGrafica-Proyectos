@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Proyecto 3/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/data.unity3d
+Proyecto 3/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+Proyecto 3/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/merged_assets/release/out/bin/Data/data.unity3d
+Proyecto 3/Library/PlayerDataCache/Android/Data/data.unity3d
