@@ -1,0 +1,4 @@
+#Sun Jun 18 22:09:59 ART 2023
+base.0=C\:\\Users\\facub\\Documents\\ComputacionGrafica\\proyecto-3-mtauro-fbernardini\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

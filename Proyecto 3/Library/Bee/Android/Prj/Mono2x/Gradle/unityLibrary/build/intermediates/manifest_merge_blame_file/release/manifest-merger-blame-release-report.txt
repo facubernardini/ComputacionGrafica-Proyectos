@@ -1,0 +1,128 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="28"
+9-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="31" />
+10-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:3-52
+12-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:17-49
+13    <uses-feature
+13-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:3-91
+14        android:name="android.hardware.vulkan.version"
+14-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:17-63
+15        android:required="false" />
+15-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:64-88
+16    <uses-feature
+16-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:3-88
+17        android:name="android.hardware.touchscreen"
+17-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:17-60
+18        android:required="false" />
+18-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:61-85
+19    <uses-feature
+19-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:3-99
+20        android:name="android.hardware.touchscreen.multitouch"
+20-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-71
+21        android:required="false" />
+21-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:72-96
+22    <uses-feature
+22-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:3-108
+23        android:name="android.hardware.touchscreen.multitouch.distinct"
+23-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:17-80
+24        android:required="false" />
+24-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:81-105
+25
+26    <application android:extractNativeLibs="true" >
+26-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-18:17
+26-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+27        <activity
+27-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:5-11:16
+28            android:name="com.unity3d.player.UnityPlayerActivity"
+28-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:15-68
+29            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+29-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:215-396
+30            android:exported="true"
+30-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:468-491
+31            android:hardwareAccelerated="false"
+31-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:432-467
+32            android:launchMode="singleTask"
+32-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:153-184
+33            android:maxAspectRatio="1.86"
+33-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:185-214
+34            android:resizeableActivity="false"
+34-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:397-431
+35            android:screenOrientation="userLandscape"
+35-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:111-152
+36            android:theme="@style/UnityThemeSelector" >
+36-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:69-110
+37            <intent-filter>
+37-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:7-8:23
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:9-61
+38-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-58
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-69
+40-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:19-66
+41            </intent-filter>
+42
+43            <meta-data
+43-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:7-82
+44                android:name="unityplayer.UnityActivity"
+44-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:18-58
+45                android:value="true" />
+45-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:59-79
+46            <meta-data
+46-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-78
+47                android:name="android.notch_support"
+47-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:18-54
+48                android:value="true" />
+48-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:55-75
+49        </activity>
+50
+51        <meta-data
+51-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-69
+52            android:name="unity.splash-mode"
+52-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+53            android:value="0" />
+53-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:49-66
+54        <meta-data
+54-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-74
+55            android:name="unity.splash-enable"
+55-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-50
+56            android:value="True" />
+56-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:51-71
+57        <meta-data
+57-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-78
+58            android:name="unity.launch-fullscreen"
+58-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-54
+59            android:value="True" />
+59-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:55-75
+60        <meta-data
+60-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+61            android:name="unity.allow-resizable-window"
+61-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-59
+62            android:value="False" />
+62-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:60-81
+63        <meta-data
+63-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-73
+64            android:name="android.max_aspect"
+64-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-49
+65            android:value="1.86" />
+65-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:50-70
+66        <meta-data
+66-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-81
+67            android:name="notch.config"
+67-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-43
+68            android:value="portrait|landscape" />
+68-->C:\Users\facub\Documents\ComputacionGrafica\proyecto-3-mtauro-fbernardini\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:44-78
+69    </application>
+70
+71</manifest>
