@@ -24,4 +24,4 @@ En este últrimo trayecto de la materia, los docentes nos otorgaron la lógica p
 
 Como resultado final tuvimos el juego perfectamente funcional y jugable, aplicando todos los conocimientos vistos durante el cuatrimestre.
 
-[![](https://markdown-videos.deta.dev/youtube/mmryUOzPImQ)](https://youtu.be/mmryUOzPImQ)
+Video demostrativo proyecto 3: https://youtu.be/mmryUOzPImQ
