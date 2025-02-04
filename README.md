@@ -23,3 +23,5 @@ Se crearon dos escenas:
 En este últrimo trayecto de la materia, los docentes nos otorgaron la lógica para un videojuego y nuestra tarea fue recrear una escena con nuevos objetos, luces y texturas.  
 
 Como resultado final tuvimos el juego perfectamente funcional y jugable, aplicando todos los conocimientos vistos durante el cuatrimestre.
+
+[![](https://markdown-videos.deta.dev/youtube/mmryUOzPImQ)](https://youtu.be/mmryUOzPImQ)
