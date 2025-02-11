@@ -25,3 +25,7 @@ En este últrimo trayecto de la materia, los docentes nos otorgaron la lógica p
 Como resultado final tuvimos el juego perfectamente funcional y jugable, aplicando todos los conocimientos vistos durante el cuatrimestre.
 
 Video demostrativo proyecto 3: https://youtu.be/mmryUOzPImQ
+
+<div id="header" align="center">
+  <img src="https://github.com/facubernardini/ComputacionGrafica-Proyectos/blob/main/Presentaciones/Captura%20de%20juego.png" width="1000"/>
+</div>
