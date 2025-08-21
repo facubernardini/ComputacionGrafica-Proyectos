@@ -24,7 +24,8 @@ En este últrimo trayecto de la materia, los docentes nos otorgaron la lógica p
 
 Como resultado final tuvimos el juego perfectamente funcional y jugable, aplicando todos los conocimientos vistos durante el cuatrimestre.
 
-Video demostrativo proyecto 3: https://youtu.be/mmryUOzPImQ
+Video demostrativo proyecto 3: https://youtu.be/mmryUOzPImQ  
+Jugar Online: https://play.unity.com/en/games/f1c4d927-3afc-4869-bb08-6024ae53a4a0/cg-2023-manuel-tauro-facundo-bernardini
 
 <div id="header" align="center">
   <img src="https://github.com/facubernardini/ComputacionGrafica-Proyectos/blob/main/Presentaciones/Captura%20de%20juego.png" width="1000"/>
